@@ -1,7 +1,7 @@
 # 🛡️ DecodeLabs Cybersecurity Internship Projects
 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
-![Projects](https://img.shields.io/badge/Projects-4-blue)
+![Projects](https://img.shields.io/badge/All-Projects-blue)
 ![DecodeLabs](https://img.shields.io/badge/DecodeLabs-Cybersecurity-orange)
 
 This repository serves as a central portfolio for the cybersecurity projects I completed during the **DecodeLabs Cybersecurity Internship**. Each project focuses on a different area of cybersecurity, including Python programming, cryptography, phishing awareness, and vulnerability assessment.
